@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @1r0n51uv
 - 👀 I’m interested in Web & Cross-Platform Development (React, .NET, Spring, Redux, React-Native, Electron, Firebase, MySQL, Bootstrap, Python)
-- 🌱 I’m currently learning Blockchain and smart contract development
+- 🌱 I’m currently learning 
+    - Blockchain and smart contract development
+    - Kubernetes and cloud development
 - 📫 How to reach me? Check out my portfolio at [SevAmm.ml](https://sevamm.ml) or mail me at sev.amm.devgmail.com
 
 <!---
